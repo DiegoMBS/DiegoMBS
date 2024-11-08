@@ -35,16 +35,22 @@ Me chamo Diego Silva, sou natural de São Paulo. Concluí minha graduação em A
 
 ### 📊 Estatísticas
 
-<div style="display: flex; gap: 10px; height: 200px;" >
-    <img  
-        alt="GitHub Stats" 
-        src="https://github-readme-stats.vercel.app/api?username=DiegoMBS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 20px;" 
+    src="https://github-readme-stats.vercel.app/api?username=DiegoMBS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-    <img 
+
+<img 
+      align="left" 
       alt="GitHub Stats" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMBS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</div>
+</p>
 
 
