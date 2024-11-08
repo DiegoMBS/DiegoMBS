@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Diego Silva, sou natural de São Paulo. Concluí minha graduação em Analise e Desenvolvimento de Sistemas no ano de 2023. Atualmente, estou cursando Pós em Administração de Banco de Dados pela UNICIV. Estou a mais de 10 anos na área da tecnologia e atualmente trabalho como Analista de Sistemas. 
-<br>
+Me chamo Diego Silva, sou natural de São Paulo. Concluí minha graduação em Analise e Desenvolvimento de Sistemas no ano de 2023. Atualmente, estou cursando Pós em Administração de Banco de Dados pela UNICIV. 
+<br><br>
 <p align="left">
     <a href="https://github.com/DiegoMBS?tab=followers">
         <img 
