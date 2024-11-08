@@ -35,7 +35,7 @@ Me chamo Diego Silva, sou natural de São Paulo. Concluí minha graduação em A
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex; align-items: center; gap: 10px">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -51,6 +51,6 @@ Me chamo Diego Silva, sou natural de São Paulo. Concluí minha graduação em A
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMBS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</div>
 
 
