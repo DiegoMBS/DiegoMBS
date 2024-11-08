@@ -1,4 +1,4 @@
-# ![favicon-16x16](https://github.com/user-attachments/assets/4d64e3fd-0258-4b91-a054-3d4d69c4c6b1)Diego Silva
+# ![favicon-32x32](https://github.com/user-attachments/assets/4d64e3fd-0258-4b91-a054-3d4d69c4c6b1)Diego Silva
 
 **`Desenvolvedor Backend`**
 
