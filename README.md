@@ -68,6 +68,6 @@
 ### 🖥Contatos 
 <p>
     ✉️ E-mail: 📧 dmsilva.dev@gmail.com<br>
-    🌐 LinkedIn: [seulinkedin](https://www.linkedin.com/in/diego-mb-silva/)
+    🌐 LinkedIn: (https://www.linkedin.com/in/diego-mb-silva/)
 
 </p>
