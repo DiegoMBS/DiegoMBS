@@ -59,10 +59,9 @@
   />
 <br><br>
 </p>
-<p>
-    <br><br>
+---
+<br><br>
 # 🖥Contatos # 
     ✉️ E-mail: 📧 dmsilva.dev@gmail.com<br>
     🌐 LinkedIn: [seulinkedin](https://www.linkedin.com/in/diego-mb-silva/)
-</p>
 
