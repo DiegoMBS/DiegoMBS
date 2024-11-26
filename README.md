@@ -60,8 +60,8 @@
 <br><br>
 </p>
 <p>
-Redes Sociais ou Contato
-✉️ E-mail: 📧 dmsilva.dev@gmail.com
-🌐 LinkedIn: [seulinkedin](https://www.linkedin.com/in/diego-mb-silva/)
+    Redes Sociais ou Contato<br>    
+    ✉️ E-mail: 📧 dmsilva.dev@gmail.com<br>
+    🌐 LinkedIn: [seulinkedin](https://www.linkedin.com/in/diego-mb-silva/)
 </p>
 
