@@ -1,8 +1,15 @@
-#  🖥Diego Silva
+# 🖥Diego Silva. #
 
-**`Desenvolvedor Backend`**
+**💻Desenvolvedor Backend💻**
 
-Me chamo Diego Silva, sou natural de São Paulo. Concluí minha graduação em Analise e Desenvolvimento de Sistemas no ano de 2023. Atualmente, estou cursando Pós em Administração de Banco de Dados pela UNICIV. 
+🎓 Graduado em Análise e Desenvolvimento de Sistemas (2023).
+📚 Pós-graduando em Administração de Banco de Dados pela UNICIV, 
+⚡ Complementando meus conhecimentos com Formações/Cursos livres.
+🌐 Conhecimento em arquiteturas escaláveis, APIs RESTful e integração de sistemas.
+📊 Experiência com bancos de dados relacionais e NoSQL (SQLServer, MongoDB).
+⚙️ Conhecimento em PHP, Java, Javascript e frameworks como Laravel, Spring Boot e Vue.
+🔒 Comprometido com a segurança, performance e soluções técnicas de alto nível.
+🚀 "Construindo sistemas robustos, com um código eficiente de cada vez."
 <br><br>
 <p align="left">
     <a href="https://github.com/DiegoMBS?tab=followers">
@@ -52,5 +59,9 @@ Me chamo Diego Silva, sou natural de São Paulo. Concluí minha graduação em A
   />
 
 </p>
-
+<p>
+Redes Sociais ou Contato
+✉️ E-mail: 📧 dmsilva.dev@gmail.com
+🌐 LinkedIn: [seulinkedin](https://www.linkedin.com/in/diego-mb-silva/)
+</p>
 
