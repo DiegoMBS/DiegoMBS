@@ -2,14 +2,14 @@
 
 **💻Desenvolvedor Backend💻**
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas (2023).
-📚 Pós-graduando em Administração de Banco de Dados pela UNICIV, 
-⚡ Complementando meus conhecimentos com Formações/Cursos livres.
-🌐 Conhecimento em arquiteturas escaláveis, APIs RESTful e integração de sistemas.
-📊 Experiência com bancos de dados relacionais e NoSQL (SQLServer, MongoDB).
-⚙️ Conhecimento em PHP, Java, Javascript e frameworks como Laravel, Spring Boot e Vue.
-🔒 Comprometido com a segurança, performance e soluções técnicas de alto nível.
-🚀 "Construindo sistemas robustos, com um código eficiente de cada vez."
+🎓 Graduado em Análise e Desenvolvimento de Sistemas (2023).<br>
+📚 Pós-graduando em Administração de Banco de Dados pela UNICIV,<br> 
+⚡ Complementando meus conhecimentos com Formações/Cursos livres.<br>
+🌐 Conhecimento em arquiteturas escaláveis, APIs RESTful e integração de sistemas.<br>
+📊 Experiência com bancos de dados relacionais e NoSQL (SQLServer, MongoDB).<br>
+⚙️ Conhecimento em PHP, Java, Javascript e frameworks como Laravel, Spring Boot e Vue.<br>
+🔒 Comprometido com a segurança, performance e soluções técnicas de alto nível.<br>
+🚀 "Construindo sistemas robustos, com um código eficiente de cada vez."<br>
 <br><br>
 <p align="left">
     <a href="https://github.com/DiegoMBS?tab=followers">
@@ -57,7 +57,7 @@
       height="160" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMBS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+<br><br>
 </p>
 <p>
 Redes Sociais ou Contato
