@@ -12,7 +12,7 @@
 🚀 "Construindo sistemas robustos, com um código eficiente de cada vez."<br>
 <br><br>
 <p align="left">
-    <a href="https://github.com/DiegoMBS?tab=followers">
+    <a href="[https://github.com/DiegoMBS?tab=followers](https://github.com/DiegoMBS?tab=followers)">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
