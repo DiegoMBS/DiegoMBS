@@ -1,23 +1,23 @@
-# 🖥Diego Silva. #
+# 🖥Diego Silva. 
 
-**💻Desenvolvedor Backend💻**
+## **💻Desenvolvedor Backend💻**
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas (2023).<br>
 📚 Pós-graduando em Administração de Banco de Dados pela UNICIV,<br> 
 ⚡ Complementando meus conhecimentos com Formações/Cursos livres.<br>
 🌐 Conhecimento em arquiteturas escaláveis, APIs RESTful e integração de sistemas.<br>
 📊 Experiência com bancos de dados relacionais e NoSQL (SQLServer, MongoDB).<br>
-⚙️ Conhecimento em PHP, Java, Javascript e frameworks como Laravel, Spring Boot e Vue.<br>
+⚙️ Conhecimento em PHP, Javascript e frameworks como Laravel e Vue.<br>
 🔒 Comprometido com a segurança, performance e soluções técnicas de alto nível.<br>
 🚀 "Construindo sistemas robustos, com um código eficiente de cada vez."<br>
 <br><br>
 <p align="center">
  <a href="https://github.com/DiegoMBS?tab=followers">
-    <img alt="Seguidores" title="Seguidores do meu Github"  
-    src="https://custom-icon-badges.demolab.com/github/followers/DiegoMS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
-     <a href="https://github.com/DiegoMBS/Simple-View-Counter">
-    <img alt="Visualizações" title="GitHub profile views"
-     src="profile-counter.glitch.me/DiegoMS/count.svg" style="max-width: 100%;"/></a>
+    <img alt="Seguidores" title="Seguidores do Github"  
+    src="https://custom-icon-badges.demolab.com/github/followers/DiegoMBS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
+
+![](https://komarev.com/ghpvc/?username=DiegoMBS&236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Visitantes&logoColor=white)
+
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 
 ### 🖥Contatos 
-<p>
+<p align="center">
     ✉️ E-mail: 📧 dmsilva.dev@gmail.com<br>
     🌐 LinkedIn: (https://www.linkedin.com/in/diego-mb-silva/)
 
