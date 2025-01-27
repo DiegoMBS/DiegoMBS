@@ -13,10 +13,11 @@
 <br><br>
 <p align="center">
  <a href="https://github.com/DiegoMBS?tab=followers">
-    <img alt="Seguidores" title="Follow me on Github" src="https://camo.githubusercontent.com/ca66a8b8868d2e290d44d81c0eaa9fa5d8148a7913cebd041c86221c447bcd37/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f666f6c6c6f776572732f44656e766572436f646572313f636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765266c6f676f3d706572736f6e2d616464266c6162656c3d466f6c6c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/github/followers/DiegoMBS?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white" style="max-width: 100%;"></a>
+    <img alt="Seguidores" title="Seguidores do meu Github"  
+    src="https://custom-icon-badges.demolab.com/github/followers/DiegoMS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
      <a href="https://github.com/DiegoMBS/Simple-View-Counter">
     <img alt="Visualizações" title="GitHub profile views"
-     src="profile-counter.glitch.me/DiegoMS/count.svg" style="max-width: 100%;"></a>
+     src="profile-counter.glitch.me/DiegoMS/count.svg" style="max-width: 100%;"/></a>
 </p>
 
 ---
