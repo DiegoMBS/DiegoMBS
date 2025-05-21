@@ -4,7 +4,7 @@
 ## **💻Desenvolvedor Backend💻**
 
 📚 Pós-graduando em Administração de Banco de Dados pela UNICIV,<br> 
-☕ Pós-graduando em Desenvolvimento Java Elite pela UNIPDS,<br> 
+☕ Pós-graduando em Java Applied Engineering pela UNIPDS,<br> 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas (2023).<br>
 <br>
 ⚡ Complementando meus conhecimentos com Formações/Cursos livres,<br>
